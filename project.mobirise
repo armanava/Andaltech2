@@ -157,18 +157,34 @@
             "timeout": "8",
             "slides": [
               {
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "image": "@PROJECT_PATH@/assets/images/andaltech1-1049x640.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/embed/xI7g-rIIfyE?rel=0&showinfo=0&autoplay=0&loop=0",
                 "title": "Tecnología aplicada a su Comercio",
-                "overlay": false,
+                "overlay": true,
                 "contentAlign": "left",
                 "text": "<span style=\"font-style: normal;\">La tranquilidad de estar respaldado y asesorado por un equipo\nde profesionales que harán que se olvide de los problemas informáticos. </span>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extForm3-e\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extForm3-e\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>",
+                "overlayOpacity": "0.4"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/tpv2-1-1245x1085.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "TPV Comercio",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "<span style=\"font-style: normal;\">Diseño elegante y de alto rendimiento para su negocio.</span><br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extForm3-e\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/etiquetaselectronicas2-1-768x385.jpg",
@@ -197,21 +213,6 @@
                 "contentAlign": "left",
                 "text": "<span style=\"font-style: normal;\">La mejor manera de promocionar sus productos<br>con imagenes y videos.</span>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extForm3-e\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/tpv2-1-1245x1085.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "TPV Comercio",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "<span style=\"font-style: normal;\">Diseño elegante y de alto rendimiento para su negocio.</span><br>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extForm3-e\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
                 "overlayOpacity": "0.1"
               }
             ]
