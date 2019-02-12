@@ -808,7 +808,7 @@ h6,
 }
 #slider-c P {
   font-family: 'Lato', sans-serif;
-  text-align: left;
+  text-align: right;
 }
 #slider-c SPAN {
   font-family: 'Roboto', sans-serif;
@@ -818,7 +818,7 @@ h6,
 #slider-c H2 {
   font-size: 46px;
   color: #efefef;
-  text-align: left;
+  text-align: right;
 }
 #slider-c .btn {
   font-size: 10px;

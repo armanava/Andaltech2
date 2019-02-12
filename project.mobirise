@@ -788,11 +788,11 @@
             "paddingBottom": 3,
             "showBullets": true,
             "bgColor": "#fff",
-            "timeout": "4",
+            "timeout": "8",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/andaltech1-1049x640.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -807,7 +807,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/andaltech3-1049x640.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -833,7 +833,7 @@
             "P": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "text-align": "left"
+              "text-align": "right"
             },
             "SPAN": {
               "font-family": "'Roboto', sans-serif",
@@ -844,7 +844,7 @@
             "H2": {
               "font-size": "46px",
               "color": "#efefef",
-              "text-align": "left"
+              "text-align": "right"
             },
             ".btn": {
               "font-size": "10px"
