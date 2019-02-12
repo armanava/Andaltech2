@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#636363",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e1417",
@@ -68,7 +68,7 @@
             "fontColor": "#969696",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUCIONES COMERCIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">CARTELERÍA DIGITAL<br>ETIQUETA ELECTRÓNICA<br>SOLUCIONES WEB<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">MANTENIMIENTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page1.html#form1-z\">CONTÁCTANOS</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUCIONES COMERCIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extFeatures10-3\">CARTELERÍA DIGITAL<br>ETIQUETA ELECTRÓNICA<br>SOLUCIONES WEB<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">MANTENIMIENTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page1.html#form1-z\">CONTÁCTANOS</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -224,7 +224,7 @@
           "_anchor": "slider-i",
           "_styles": {
             "H2": {
-              "font-size": "46px",
+              "font-size": "36px",
               "text-align": "left",
               "color": "#efefef"
             },
@@ -700,7 +700,7 @@
               "font-size": "10px"
             },
             "H3": {
-              "font-size": "46px"
+              "font-size": "36px"
             },
             "SPAN": {
               "font-size": "16px"
@@ -773,7 +773,7 @@
               "font-size": "10px"
             },
             "H3": {
-              "font-size": "46px"
+              "font-size": "36px"
             },
             "SPAN": {
               "font-size": "16px"
@@ -792,7 +792,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/andaltech1-1049x640.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -800,14 +800,14 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "ANDALTECH",
                 "overlay": true,
-                "contentAlign": "left",
+                "contentAlign": "right",
                 "text": "<span style=\"font-style: normal;\">Es calidad de servicio, es tranquilidad, es asesoramiento, es ahorro de costes, todo un equipo profesional\na su disposición.</span>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page1.html#extForm3-t\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>",
                 "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/andaltech3-1049x640.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -842,7 +842,7 @@
               "color": "#efefef"
             },
             "H2": {
-              "font-size": "46px",
+              "font-size": "36px",
               "color": "#efefef",
               "text-align": "right"
             },
@@ -1537,7 +1537,7 @@
             "fontColor": "#969696",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUCIONES COMERCIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">CARTELERÍA DIGITAL<br>ETIQUETA ELECTRÓNICA<br>SOLUCIONES WEB<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">MANTENIMIENTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page1.html#form1-z\">CONTÁCTANOS</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUCIONES COMERCIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extFeatures10-3\">CARTELERÍA DIGITAL<br>ETIQUETA ELECTRÓNICA<br>SOLUCIONES WEB<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">MANTENIMIENTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page1.html#form1-z\">CONTÁCTANOS</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -2159,7 +2159,7 @@
             "fontColor": "#969696",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUCIONES COMERCIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">CARTELERÍA DIGITAL<br>ETIQUETA ELECTRÓNICA<br>SOLUCIONES WEB<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">MANTENIMIENTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page1.html#form1-z\">CONTÁCTANOS</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUCIONES COMERCIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extFeatures10-3\">CARTELERÍA DIGITAL<br>ETIQUETA ELECTRÓNICA<br>SOLUCIONES WEB<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">MANTENIMIENTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page1.html#form1-z\">CONTÁCTANOS</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -2791,7 +2791,7 @@
             "fontColor": "#969696",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUCIONES COMERCIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">CARTELERÍA DIGITAL<br>ETIQUETA ELECTRÓNICA<br>SOLUCIONES WEB<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">MANTENIMIENTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page1.html#form1-z\">CONTÁCTANOS</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUCIONES COMERCIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extFeatures10-3\">CARTELERÍA DIGITAL<br>ETIQUETA ELECTRÓNICA<br>SOLUCIONES WEB<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">MANTENIMIENTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page1.html#form1-z\">CONTÁCTANOS</a></li>",
           "_tags": [
             "Tema"
           ],
