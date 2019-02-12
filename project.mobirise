@@ -65,10 +65,10 @@
             "bgColor": "#ffffff",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#969696",
+            "fontColor": "#636363",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUCIONES COMERCIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extMsg-box1-k\">CARTELERÍA DIGITAL<br><br>ETIQUETA ELECTRÓNICA<br><br>SOLUCIONES WEB<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures10-y\">MANTENIMIENTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page1.html#form1-z\">CONTÁCTANOS</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">PRODUCTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box1-j\" aria-expanded=\"false\">CARTELERÍA DIGITAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box1-k\" aria-expanded=\"false\">ETIQ. ELECTRÓNICA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures10-y\">MANTENIMIENTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures10-3\">WEB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:+34954691845\"><span class=\"icon54-v1-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>+34 954 691 845</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -80,13 +80,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#969696"
+              "color": "#636363"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#969696"
+              "background-color": "#636363"
             },
             ".link, .dropdown-item": {
-              "color": "#969696"
+              "color": "#636363"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -107,7 +107,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#969696",
+              "color": "#636363",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -117,13 +117,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#636363!important"
+              "color": "#ffffff!important"
             },
             "A": {
               "font-size": "8px"
             },
             ".btn": {
-              "font-size": "10px"
+              "font-size": "14px"
+            },
+            ".btn SPAN": {
+              "font-size": "16px"
             }
           },
           "logo": {
@@ -1482,7 +1485,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"tel:+34954691845\">Teléfono: +34 954 691 845</a></li><li><a href=\"\">info@andaltech.es</a></li><li><a href=\"index.html#extForm3-e\">GoogleTerbio 8 Sevilla 41007</a></li></ul>",
+          "list": "<ul><li><a href=\"tel:+34954691845\">Teléfono: +34 954 691 845</a></li><li><a href=\"mailto:info@andaltech.es\">info@andaltech.es</a></li><li><a href=\"index.html#extForm3-e\">Calle terbio 8 Sevilla 41007</a></li></ul>",
           "title": "&nbsp;Tecnología aplicada a su Comercio",
           "media": {
             "image": {
@@ -1535,10 +1538,10 @@
             "bgColor": "#ffffff",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#969696",
+            "fontColor": "#636363",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUCIONES COMERCIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extMsg-box1-k\">CARTELERÍA DIGITAL<br><br>ETIQUETA ELECTRÓNICA<br><br>SOLUCIONES WEB<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures10-y\">MANTENIMIENTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page1.html#form1-z\">CONTÁCTANOS</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">PRODUCTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box1-j\" aria-expanded=\"false\">CARTELERÍA DIGITAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box1-k\" aria-expanded=\"false\">ETIQ. ELECTRÓNICA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures10-y\">MANTENIMIENTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures10-3\">WEB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:+34954691845\"><span class=\"icon54-v1-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>+34 954 691 845</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -1550,13 +1553,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#969696"
+              "color": "#636363"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#969696"
+              "background-color": "#636363"
             },
             ".link, .dropdown-item": {
-              "color": "#969696"
+              "color": "#636363"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -1577,7 +1580,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#969696",
+              "color": "#636363",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1587,13 +1590,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#636363!important"
+              "color": "#ffffff!important"
             },
             "A": {
               "font-size": "8px"
             },
             ".btn": {
-              "font-size": "10px"
+              "font-size": "14px"
+            },
+            ".btn SPAN": {
+              "font-size": "16px"
             }
           },
           "logo": {
@@ -2157,10 +2163,10 @@
             "bgColor": "#ffffff",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#969696",
+            "fontColor": "#636363",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUCIONES COMERCIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extMsg-box1-k\">CARTELERÍA DIGITAL<br><br>ETIQUETA ELECTRÓNICA<br><br>SOLUCIONES WEB<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures10-y\">MANTENIMIENTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page1.html#form1-z\">CONTÁCTANOS</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">PRODUCTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box1-j\" aria-expanded=\"false\">CARTELERÍA DIGITAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box1-k\" aria-expanded=\"false\">ETIQ. ELECTRÓNICA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures10-y\">MANTENIMIENTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures10-3\">WEB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:+34954691845\"><span class=\"icon54-v1-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>+34 954 691 845</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -2172,13 +2178,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#969696"
+              "color": "#636363"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#969696"
+              "background-color": "#636363"
             },
             ".link, .dropdown-item": {
-              "color": "#969696"
+              "color": "#636363"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -2199,7 +2205,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#969696",
+              "color": "#636363",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2209,13 +2215,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#636363!important"
+              "color": "#ffffff!important"
             },
             "A": {
               "font-size": "8px"
             },
             ".btn": {
-              "font-size": "10px"
+              "font-size": "14px"
+            },
+            ".btn SPAN": {
+              "font-size": "16px"
             }
           },
           "logo": {
@@ -2789,10 +2798,10 @@
             "bgColor": "#ffffff",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#969696",
+            "fontColor": "#636363",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUCIONES COMERCIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extMsg-box1-k\">CARTELERÍA DIGITAL<br><br>ETIQUETA ELECTRÓNICA<br><br>SOLUCIONES WEB<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures10-y\">MANTENIMIENTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page1.html#form1-z\">CONTÁCTANOS</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">PRODUCTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box1-j\" aria-expanded=\"false\">CARTELERÍA DIGITAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box1-k\" aria-expanded=\"false\">ETIQ. ELECTRÓNICA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures10-y\">MANTENIMIENTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures10-3\">WEB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:+34954691845\"><span class=\"icon54-v1-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>+34 954 691 845</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -2804,13 +2813,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#969696"
+              "color": "#636363"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#969696"
+              "background-color": "#636363"
             },
             ".link, .dropdown-item": {
-              "color": "#969696"
+              "color": "#636363"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -2831,7 +2840,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#969696",
+              "color": "#636363",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2841,13 +2850,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#636363!important"
+              "color": "#ffffff!important"
             },
             "A": {
               "font-size": "8px"
             },
             ".btn": {
-              "font-size": "10px"
+              "font-size": "14px"
+            },
+            ".btn SPAN": {
+              "font-size": "16px"
             }
           },
           "logo": {
