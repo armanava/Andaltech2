@@ -154,7 +154,7 @@
             "paddingBottom": 3,
             "showBullets": true,
             "bgColor": "#fff",
-            "timeout": 5,
+            "timeout": "8",
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
